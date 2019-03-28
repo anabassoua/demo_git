@@ -1,4 +1,6 @@
 # demo_git
 
 
-e demo de git
+une demo de git
+
+et maintenant ca se passe bien
